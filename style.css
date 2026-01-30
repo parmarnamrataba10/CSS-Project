@@ -1,0 +1,94 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.div{
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    background-color:rgb(204, 198, 198);
+    background-image:url(../project/asset/Project-2-Product-Sections-Google-Docs-01-30-2026_12_24_PM.png);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: right;
+    text-transform: capitalize;
+    font-size: bold;
+    padding: 30px;
+    
+    
+}
+.letter{
+    font-size: large;
+    color: rgb(79, 78, 78);
+}
+
+.select{
+    float:right ;
+    text-transform: capitalize;
+    width: 150px;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    padding: 1px;
+    float: left;
+}
+.btn2{
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 1px;
+    float: left;
+}
+.table1{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid black;
+    height: 400px;
+    width: 350px;
+    text-transform: capitalize;
+    padding: 30px;
+     text-align:left;
+     border-radius: 5px;
+     border-color:grey;
+}
+/* img{
+    height: 200px;
+} */
+.bt{
+    background-color: rgb(103, 168, 103);
+    font-size: 20px;
+    border: none;
+    float:right;
+    text-align: center;
+    padding:1px;
+    border-radius: 5px;
+    color:white;
+}
+.table2{
+     display: inline-block;
+     margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid grey;
+    height: 400px;
+    width: 350px;
+    text-transform: capitalize;
+    padding: 30px;
+     text-align:left;
+     border-radius: 5px;
+}
+.table3{
+    display: inline-block;
+    border: 2px solid grey ;
+     margin-top: 30px;
+    margin-left: 20px;
+    height:300px;
+    width:250px ;
+}
+  
